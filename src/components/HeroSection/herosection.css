@@ -1,0 +1,18 @@
+.hero-section{
+    margin-bottom: 150px;
+}
+
+.backgroundImageText{
+    position:relative;
+    top: 378px;
+    left: 40px;
+    width: 430px;
+    height: 81px;
+    color:#fff;
+}
+.backgroundImage{
+    background-repeat: "no-repeat";
+    width: 1050px;
+    height: 500px;
+    
+}
