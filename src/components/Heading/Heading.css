@@ -3,6 +3,10 @@
     font-size: 60px;
     line-height: 60px;
     letter-spacing: -0.03em;
+    padding-top: 73px;
+    margin-bottom: 30px;
+    width: 956px;
+
   
 }
 
@@ -11,4 +15,5 @@
     font-size: 18px;
     line-height: 18px;
     letter-spacing: -0.03em;
+    padding-bottom: 30px;
 }

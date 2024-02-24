@@ -9,10 +9,12 @@
     width: 430px;
     height: 81px;
     color:#fff;
+    line-height: 27px;
+    letter-spacing: 0.6px;
 }
 .backgroundImage{
     background-repeat: "no-repeat";
-    width: 1050px;
+    width: 1150px;
     height: 500px;
     
 }
