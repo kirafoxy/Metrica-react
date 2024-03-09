@@ -1,6 +1,8 @@
 .aboutText{
     font-weight: 400;
     font-size: 45px;
-    letter-spacing: -0.03em;
+    letter-spacing: 0.02em;
     padding-bottom: 30px;
+    color: #121212;
+    line-height: 61px;
 }

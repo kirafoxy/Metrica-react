@@ -2,9 +2,27 @@ import React from 'react'
 import './button.css'
 
 function Button (props) {
-  return (
-   <button>{props.text}</button>
-  );
+  if ( props.size === 'large') {
+    return (  
+     
+      <button className='button-h1'>{props.text}</button>
+    
+    );
+
+  }
+
+  if (  props.size === 'medium') {
+    return (  
+     
+      <button className='button-h2'>{props.text}</button>
+    
+    );
+
+  }
+
+
+
 }
+
 
 export default Button

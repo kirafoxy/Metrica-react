@@ -1,9 +1,42 @@
-/* .button-h1{
+.button-h1{
+    width: 1150px;
+    height: 153px;
+    background-color: #fff;
+    border: 1px solid #ad1818;
+    border-radius: 5px;
+    font-size: 30px;
+    letter-spacing: -0.03em;
+    text-align: center;
+    color: #ad1818;
+    margin-bottom: 50px;
+    cursor: pointer;
+    line-height: 41px;
+}
 
+.button-h1:hover{
+    background-color: #ad1818;
+    color:#fff;
 }
 
 
 
 .button-h2{
+    margin-bottom: 150px;
 
-} */
+    background-color: #ad1818;
+    border: 1px solid #ad1818;
+    color:#fff;
+    letter-spacing: -0.03em;
+    font-weight: 400;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 20px 40px;
+    width: 255px;
+    height: 67px;
+    cursor: pointer;
+}
+
+.button-h2:hover{
+    background-color: #fff;
+    color:#ad1818;
+}

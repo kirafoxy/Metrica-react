@@ -57,7 +57,9 @@ function ProjectsSection () {
       }) }
       
      
-        <Button text='Смотреть все проекты' />
+        <Button 
+        size = 'large'
+        text ='Смотреть все проекты'  />
       </div>
       
     );
